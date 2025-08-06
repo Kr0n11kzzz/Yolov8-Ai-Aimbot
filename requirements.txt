@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+torch
+torchvision
+opencv-python
+numpy
+pygetwindow
+pywin32
+keyboard
